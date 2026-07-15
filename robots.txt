@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://samgooi-my.github.io/chatbees-portal/sitemap.xml
+Sitemap: https://portal.chatbees.io/sitemap.xml
